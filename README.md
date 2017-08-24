@@ -1,7 +1,7 @@
 # MAAPAnnotate
 
 MAAPAnnotate is an HoloLens application which provides an innovative method of interacting with megalithic art.
-You can find in this github all the data you need to launch the corresponding Unity file.
+You can find in this github all the assets you need to create a corresponding Unity file.
 
 You need to add HoloToolkit to your unity project: https://github.com/Microsoft/MixedRealityToolkit-Unity.
 
