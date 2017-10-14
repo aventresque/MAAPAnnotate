@@ -12,4 +12,5 @@ You can then directly launch the app from the HoloLens.
 
 In order to view what is displayed in the HoloLens, go to the Windows Device Portal http://127.0.0.1:10080/ when the HoloLens is plugged.
 
-This video presents the tool in action: [![MAAP Annotate Video](https://img.youtube.com/vi/XUPRaAGhMAw/0.jpg)](https://www.youtube.com/watch?v=XUPRaAGhMAw)
+This video presents the tool in action: 
+[![MAAP Annotate Video](https://img.youtube.com/vi/XUPRaAGhMAw/0.jpg)](https://www.youtube.com/watch?v=XUPRaAGhMAw)
